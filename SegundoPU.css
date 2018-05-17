@@ -1,0 +1,15 @@
+img {
+  width: 20%;
+  height: 20%
+}
+h1, h2, h3 {
+  font-family: sans-serif;
+}
+
+.lesson {
+  border-radius: 4px;
+  margin: 10px;
+  padding: 4px;
+  color: #FF5079;
+  background-color: #FFE6FF;
+}
